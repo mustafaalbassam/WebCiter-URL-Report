@@ -1,0 +1,15 @@
+
+# To run the code for this project, follow the steps below:
+
+1. Download the project code file and dataset file from this repository by clicking on the "Code" dropdown and "download ZIP"
+
+2. Install anaconda on your machine
+
+3. Launch Jupyter Notebook
+
+4. Upload both project code and dataset files that you downloaded into Jupyter Notebook  
+
+5. After uploading both code and dataset files into Jupyter Notebook, copy and paste the dataset file path in the project code ( in the 2nd cell) as showing in this example: source_df = pd.read_csv('Sites_URLs_Dataset.csv') 
+
+6. Lastly, run code cells in Jupyter Notebook to launch the dashboard so you can search and analyze site URLs
+
